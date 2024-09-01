@@ -1,0 +1,15 @@
+.nav
+{
+    text-align: center;
+}
+
+.selected
+{
+    border: 1px solid black;
+}
+
+hr
+{
+    width: 100%;
+    
+}
